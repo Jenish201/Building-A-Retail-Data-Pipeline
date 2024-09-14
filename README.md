@@ -1,6 +1,6 @@
 # Walmart Sales Data Pipeline and Analysis
 
-# Description:
+**Description:**
 As a data enthusiast, I had the opportunity to work on a exciting project that involved building a data pipeline to analyze Walmart's sales data around public holidays. I merged and cleaned large datasets from PostgreSQL and Parquet files, and performed exploratory data analysis to uncover insights on monthly sales trends.
 
 **Key Achievements:**
